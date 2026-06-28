@@ -149,18 +149,6 @@
     },
     {
         "copyrightHolders": [
-            "2019 Tim Perry"
-        ],
-        "location": "public/lib/amd/src/loglevel.js",
-        "name": "loglevel.js",
-        "description": "Minimal lightweight simple logging for JavaScript.",
-        "version": "1.9.2",
-        "license": "MIT",
-        "repository": "https://github.com/pimterry/loglevel/",
-        "customised": false
-    },
-    {
-        "copyrightHolders": [
             "2009 Chris Wanstrath (Ruby)",
             "2010-2014 Jan Lehnardt (JavaScript)",
             "2010-2015 The mustache.js community"
@@ -212,7 +200,7 @@
         "location": "public/lib/aws-sdk",
         "name": "AWS SDK for PHP",
         "description": "The AWS SDK for PHP library",
-        "version": "3.356.22",
+        "version": "3.369.22",
         "license": "Apache",
         "licenseversion": "2.0",
         "repository": "https://github.com/aws/aws-sdk-php",
@@ -1373,18 +1361,6 @@
         "license": "MIT",
         "repository": "https://github.com/twbs/bootstrap",
         "customised": true
-    },
-    {
-        "copyrightHolders": [
-            "Moodle HQ"
-        ],
-        "location": "public/theme/boost/scss/design-system",
-        "name": "@moodlehq/design-system",
-        "description": "The Moodle HQ design system based on React",
-        "version": "2.1.1",
-        "license": "GNU",
-        "repository": "https://github.com/moodlehq/design-system",
-        "customised": false
     },
     {
         "copyrightHolders": [
